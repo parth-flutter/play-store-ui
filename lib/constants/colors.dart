@@ -1,3 +1,8 @@
+/// Description: This file is created to colors of the project.
+///
+/// @author Parth Darji
+/// @since 7 July 2022
+
 import 'package:flutter/material.dart';
 
 const kPrimaryColor = Color(0xFF334494);

@@ -1,3 +1,8 @@
+/// Description: This file is created to store asset paths of the project.
+///
+/// @author Parth Darji
+/// @since 7 July 2022
+
 String _assetImages = 'assets/images';
 
 class AssetPath {

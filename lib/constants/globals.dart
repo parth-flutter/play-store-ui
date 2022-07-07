@@ -3,6 +3,12 @@ import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import 'package:play_store/constants/colors.dart';
 
+/// Description: This file is created to global variables and
+/// functions of the project.
+///
+/// @author Parth Darji
+/// @since 7 July 2022
+
 /// MediaQuery Height
 double screenHeight = Get.height;
 

@@ -2,6 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:play_store/constants/enum.dart';
 import 'package:play_store/constants/globals.dart';
 
+/// Description: This file is created to manage drawer.
+///
+/// @author Parth Darji
+/// @since 7 July 2022
+
 class CustomDrawer extends StatefulWidget {
   const CustomDrawer({Key? key}) : super(key: key);
 

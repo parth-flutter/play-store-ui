@@ -5,7 +5,7 @@ import 'package:play_store/constants/enum.dart';
 import 'package:play_store/controllers/home_controller.dart';
 import 'package:play_store/widgets/drawer.dart';
 
-/// Description: This file is created to build drawer and home calendar screen.
+/// Description: This file is created to build drawer and home screen.
 ///
 /// @author Parth Darji
 /// @since 7 July 2022
